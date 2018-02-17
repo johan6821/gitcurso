@@ -13,5 +13,23 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        
+        <form action="index">
+        
+            <input type="text" name="Colombia" value="" />
+            <ol type="1">
+                <li>Amazonas</li>
+                <li>Cundinamarca</li>
+                <li>Atlantico</li>
+                <li>Casanare</li>
+            </ol>
+
+        
+        
+        </form>
+        
+        
+        
+        
     </body>
 </html>
